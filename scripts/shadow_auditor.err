@@ -1,0 +1,4 @@
+/usr/lib/python3/dist-packages/scipy/sparse/_index.py:143: SparseEfficiencyWarning: Changing the sparsity structure of a csr_matrix is expensive. lil_matrix is more efficient.
+  self._set_arrayXarray(i, j, x)
+/home/hatch/workspace/graph-unlearning-paper/reproduction-package/gcn.py:111: RuntimeWarning: overflow encountered in exp
+  p = 1.0 / (1.0 + np.exp(-s))
