@@ -1,0 +1,12 @@
+{
+ "dataset": "cora",
+ "seed": 42,
+ "n_forget": 184,
+ "cheng_auroc_ed_retrain": 0.7774,
+ "cheng_auroc_ed_port_lam1.0": 0.7567,
+ "cheng_auroc_ed_delta_port_minus_retrain": -0.0206,
+ "fgs_attack_auc_retrain_recorded": 0.6932,
+ "fgs_attack_auc_port_recorded": 0.7277,
+ "fgs_util_auc_retrain_recorded": 0.7631,
+ "fgs_util_auc_port_recorded": 0.7369
+}

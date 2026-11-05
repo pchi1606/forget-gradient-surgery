@@ -1,0 +1,12 @@
+{
+ "dataset": "pubmed",
+ "seed": 7,
+ "n_forget": 1551,
+ "cheng_auroc_ed_retrain": 0.596,
+ "cheng_auroc_ed_port_lam1.0": 0.7982,
+ "cheng_auroc_ed_delta_port_minus_retrain": 0.2022,
+ "fgs_attack_auc_retrain_recorded": 0.9161,
+ "fgs_attack_auc_port_recorded": 0.8174,
+ "fgs_util_auc_retrain_recorded": 0.9426,
+ "fgs_util_auc_port_recorded": 0.933
+}

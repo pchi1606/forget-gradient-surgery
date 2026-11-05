@@ -1,0 +1,20 @@
+{
+ "method": "MEGU (official xkLi-Allen/MEGU @ 03bbb35, FGS adapter)",
+ "dataset": "citeseer",
+ "seed": 123,
+ "n_forget": 159,
+ "attack_auc": 0.6181,
+ "util_auc": 0.8182,
+ "retrain_attack_auc": 0.7894,
+ "retrain_util_auc": 0.8056,
+ "attack_gap_vs_retrain": -0.1713,
+ "util_gap_vs_retrain": 0.0126,
+ "unlearn_loop_s": 6.0,
+ "neighbor_select_s": 0.7,
+ "procedure_s": 6.7,
+ "retrain_s": 115.0,
+ "time_ratio_procedure_vs_retrain": 0.058,
+ "base_train_s_megu_classifier": 12.6,
+ "megu_f1_before": 0.7074,
+ "megu_f1_after": 0.7179
+}

@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+# Raw Planetoid data files are fetched locally by scripts/fetch_data.py
+# and are not redistributed with this package.
+code/data/
+results/cache/

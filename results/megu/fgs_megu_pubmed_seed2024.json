@@ -1,0 +1,20 @@
+{
+ "method": "MEGU (official xkLi-Allen/MEGU @ 03bbb35, FGS adapter)",
+ "dataset": "pubmed",
+ "seed": 2024,
+ "n_forget": 1551,
+ "attack_auc": 0.7788,
+ "util_auc": 0.8429,
+ "retrain_attack_auc": 0.9204,
+ "retrain_util_auc": 0.938,
+ "attack_gap_vs_retrain": -0.1417,
+ "util_gap_vs_retrain": -0.0952,
+ "unlearn_loop_s": 5.7,
+ "neighbor_select_s": 1.1,
+ "procedure_s": 6.8,
+ "retrain_s": 142.6,
+ "time_ratio_procedure_vs_retrain": 0.048,
+ "base_train_s_megu_classifier": 20.4,
+ "megu_f1_before": 0.8791,
+ "megu_f1_after": 0.8664
+}
