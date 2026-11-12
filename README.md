@@ -1,8 +1,8 @@
-# Reproduction package — Forget Gradient Surgery (FGS) for graph edge unlearning
+# Reproduction package — "The Projection Preserves Utility, Not Forgetting" (graph edge unlearning)
 
-This package accompanies the paper *Forget Gradient Surgery: A Characterization of
-Projected Gradient Descent for Graph Edge Unlearning* (Prabhu Rangaraju), submitted to Neural Computing and
-Applications, 2026. It contains the experiment harness, the analysis
+This package accompanies the paper *The Projection Preserves Utility, Not Forgetting:
+A Characterization of Projected Gradient Ascent for Graph Edge Unlearning* (Prabhu
+Rangaraju). Manuscript in preparation; not currently under review. It contains the experiment harness, the analysis
 scripts, the baseline adapters, and the raw per-seed result files from
 which every aggregate number in the paper is computed.
 
